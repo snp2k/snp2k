@@ -2,10 +2,6 @@ SNP2K
 =====
 Wrangling Bio2BEL repositories that connect SNPs to other modalities
 
-Goals
------
-TODO @reagon.karki
-
 Installation
 ------------
 This package requires python37+ and can be installed with the following
@@ -13,7 +9,7 @@ commands in the terminal:
 
 .. code-block:: sh
 
-   $ git clone https://gitlab.scai.fraunhofer.de/charles.hoyt/snp2k.git
+   $ git clone https://github/snp2k/snp2k.git
    $ cd snp-knowledge
    $ pip install -e .
 
