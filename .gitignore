@@ -102,4 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Added
+.idea
+docs/_build
 .DS_Store
